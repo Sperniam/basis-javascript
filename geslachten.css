@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  #output {
+    max-width: 350px;
+    margin: auto;
+  }
+  
+  #output img {
+    margin-top: 10px;
+    border-radius: 6px;
+    border: 2px solid #000000;
+    max-width: 100px;
+    height: auto;
+  }
+  

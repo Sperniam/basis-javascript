@@ -1,0 +1,68 @@
+[
+    {
+        "voornaam": "Noah",
+        "familienaam": "Smith",
+        "geslacht": "man",
+        "foto": "img/man1.svg"
+    },
+    {
+        "voornaam": "Emma",
+        "familienaam": "Johnson",
+        "geslacht": "vrouw",
+        "foto": "img/vrouw1.svg"
+    },
+    {
+        "voornaam": "Sophia",
+        "familienaam": "Wilson",
+        "geslacht": "vrouw",
+        "foto": "img/vrouw3.svg"
+    },
+    {
+        "voornaam": "Mason",
+        "familienaam": "Jones",
+        "geslacht": "man",
+        "foto": "img/man3.svg"
+    },
+    {
+        "voornaam": "William",
+        "familienaam": "Davis",
+        "geslacht": "man",
+        "foto": "img/man5.svg"
+    },
+    {
+        "voornaam": "Liam",
+        "familienaam": "Williams",
+        "geslacht": "man",
+        "foto": "img/man2.svg"
+    },
+    {
+        "voornaam": "Olivia",
+        "familienaam": "Miller",
+        "geslacht": "vrouw",
+        "foto": "img/vrouw2.svg"
+    },
+    {
+        "voornaam": "Jacob",
+        "familienaam": "Brown",
+        "geslacht": "man",
+        "foto": "img/man4.svg"
+    },
+    {
+        "voornaam": "Ava",
+        "familienaam": "Moore",
+        "geslacht": "vrouw",
+        "foto": "img/vrouw4.svg"
+    },
+    {
+        "voornaam": "Isabella",
+        "familienaam": "Taylor",
+        "geslacht": "vrouw",
+        "foto": "img/vrouw5.svg"
+    },
+    {
+        "voornaam": "Dana",
+        "familienaam": "Xym",
+        "geslacht": "x",
+        "foto": "img/x1.svg"
+    }
+]
