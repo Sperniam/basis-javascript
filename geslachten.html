@@ -1,23 +1,34 @@
 <html>
     <head>
+        <meta charset="UTF-8"/>
         <link rel="stylesheet" href="geslachten.css" />
-
+        <script src="geslachten.js" defer></script>
         <title>Geslachten</title>
     </head>
     <body>
 
-        <nav> <!--HYPELINKS TO GENDERS-->
-            <a href="#" onclick="hyperlink('man'); return false;">Mannen</a> |
-            <a href="#" onclick="hyperlink('vrouw'); return false;">Vrouwen</a> |
-            <a href="#" onclick="hyperlink('x'); return false;">X</a> |
-            <a href="#" onclick="hyperlink('alle'); return false;">Allen</a>
+        <nav id="genderlinks"> <!-- HYPERLINKS -->
+            <a href="#" data-type="man">Mannen</a> |
+            <a href="#" data-type="vrouw">Vrouwen</a> |
+            <a href="#" data-type="x">X</a> |
+            <a href="#" data-type="alle">Allen</a>
           </nav>
 
         <h1>Dit zijn de geslachten:</h1>
-  
-        <div id="output"></div>
 
-        <script src="geslachten.js"></script>
+        <table id="dataTable">
+            <thead>
+              <tr>
+                <th>Voornaam</th>
+                <th>Familienaam</th>
+                <th>Geslacht</th>
+                <th>Foto</th>
+              </tr>
+            </thead>
+            <tbody id="output">
+              <!-- Rijen worden hier ingevuld door JS -->
+            </tbody>
+          </table>
 
     </body>
 </html>
